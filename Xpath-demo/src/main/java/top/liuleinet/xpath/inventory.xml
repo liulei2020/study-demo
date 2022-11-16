@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<inventory>
+    <!--这是注释-->
+    <book year="2000">
+        <title>三国演义</title>
+        <author>罗贯中</author>
+        <publisher>三国出版社</publisher>
+        <isbn>0553380958</isbn>
+        <price>38</price>
+    </book>
+    <book year="2005">
+        <title>红楼梦</title>
+        <author>曹雪芹</author>
+        <author>某某</author>
+        <publisher>红楼出版社</publisher>
+        <isbn>0743416910</isbn>
+        <price>46</price>
+    </book>
+    <book year="1995">
+        <title>西游记</title>
+        <author>吴承恩</author>
+        <publisher>西游出版社</publisher>
+        <isbn>0553573862</isbn>
+        <price>34</price>
+    </book>
+</inventory>
